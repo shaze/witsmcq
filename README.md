@@ -1,5 +1,6 @@
 # witsmcq
-For providing feedback to students using the Wits MCQ card system
+
+For providing feedback to students using the Wits MCQ card system.
 
 
 ## Overview
@@ -12,7 +13,8 @@ It produces
    whether they got a question right or wrong
 -- an Excel spreadsheet showing the marks for the students (you should have this
    already but you can use discrepancies to check for anomalies or problems)
-   
+
+You do need to know how to use the Terminal on your Mac or other system.
 
 ## To install
 
